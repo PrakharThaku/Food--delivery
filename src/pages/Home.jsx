@@ -4,7 +4,7 @@ import Navbar from '../components/Navbar';
 import categories from '../Category';
 import Card from '../components/Card';
 import { food_items } from '../food';
-import { DataContext } from '../context/userContext';
+import { DataContext } from './context/UserContext.jsx';
 import { RxCross2 } from 'react-icons/rx';
 import CartCard from '../components/CartCard';
 
