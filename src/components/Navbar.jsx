@@ -2,7 +2,7 @@ import React, { useContext } from 'react'
 import { IoSearch } from 'react-icons/io5'
 import { LuShoppingBag } from 'react-icons/lu'
 import { MdFastfood } from "react-icons/md"
-import { DataContext } from '../context/userContext'
+import { DataContext } from "../context/UserContext.jsx";
 import { useSelector } from 'react-redux'
 
 const Navbar = () => {
